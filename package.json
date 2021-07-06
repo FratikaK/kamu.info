@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://FratikaK.github.io/kamu.info/",
+  "homepage": "http://FratikaK.github.io/kamu.info/",
 
   "eslintConfig": {
     "extends": [
